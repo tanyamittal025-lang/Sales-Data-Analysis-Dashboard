@@ -16,9 +16,9 @@ An interactive sales analytics dashboard built using Python and Streamlit to ana
 
 ## Dashboard Preview
 
-![Revenue Chart](C:\Sales_Data_Analysis)
+![Revenue Chart](Sales_Data_Analysis/revenue_chart.png)
 
-![Sales Trend](C:\Sales_Data_Analysis)
+![Sales Trend](Sales_Data_Analysis/sales_trend.png)
 
 ## How to Run
 
