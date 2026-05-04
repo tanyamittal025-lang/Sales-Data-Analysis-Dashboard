@@ -1,6 +1,7 @@
 # Sales Data Analysis Dashboard
 
 An interactive sales analytics dashboard built using Python and Streamlit to analyze sales data and visualize revenue trends.
+Dataset is synthetically generated to simulate real-world Indian e-commerce sales patterns
 
 ## Features
 - Data cleaning and preprocessing
